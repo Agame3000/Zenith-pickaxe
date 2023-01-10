@@ -1,0 +1,3 @@
+displayName = Zenith pickaxe
+author = Agame3000
+version = 1.0

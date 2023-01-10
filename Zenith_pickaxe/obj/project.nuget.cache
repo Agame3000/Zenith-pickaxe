@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5On9P72JoUJKC+wnoz+YrGpKqwu2KlT9DuSSlSRVo7EIyq5MGjL/pdzja3iDMDKayT8/DGgYPf3ytFhx0EQbSw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Андрей\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Zenith_pickaxe\\Zenith_pickaxe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Андрей\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
